@@ -16,3 +16,9 @@ workflows:
                 - master
           requires:
             - yarn/update-cache
+      - auto/publish:
+          context: npm-deploy
+          filters:
+            branches:
+              only:
+                - master
