@@ -1,6 +1,6 @@
 {
   "name": "@artsy/next-layout",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Enhanced layout helpers for Next.js",
   "author": "Justin Bennett <zephraph@gmail.com>",
   "homepage": "",
