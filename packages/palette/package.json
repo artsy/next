@@ -1,8 +1,11 @@
 {
   "name": "@artsy/next-palette",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Easily integrate Artsy's Palette w/ Next.js",
   "author": "Justin Bennett <zephraph@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "",
   "license": "MIT",
   "main": "lib/palette.js",
