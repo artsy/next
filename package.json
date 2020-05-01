@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "prepare": "lerna run build"
+  },
   "workspaces": [
     "packages/*"
   ],
