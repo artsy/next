@@ -1,0 +1,31 @@
+{
+  "name": "@artsy/next-palette",
+  "version": "0.0.0",
+  "description": "Easily integrate Artsy's Palette w/ Next.js",
+  "author": "Justin Bennett <zephraph@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/palette.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "styled-components": "^4",
+    "next": "^9.3.6"
+  },
+  "dependencies": {
+    "@artsy/palette": "^8.2.1"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4",
+    "next": "^9.3.6",
+    "styled-components": "^4"
+  }
+}

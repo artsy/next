@@ -1,0 +1,27 @@
+{
+  "name": "@artsy/next-layout",
+  "version": "0.0.0",
+  "description": "Enhanced layout helpers for Next.js",
+  "author": "Justin Bennett <zephraph@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "find-up": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "next": "^9.3.6",
+    "react": "^16.13.1"
+  }
+}
