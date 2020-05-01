@@ -5,6 +5,9 @@
   "author": "Justin Bennett <zephraph@gmail.com>",
   "homepage": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
