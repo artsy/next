@@ -6,12 +6,13 @@ orbs:
 
 workflows:
   build_and_verify:
-    - yarn/update-cache
-    - auto/publish-canary:
-      context: npm-deploy
-      filters:
-        branches:
-          ignore:
-            - master
-      requires:
-        - yarn/update-cache
+    jobs:
+      - yarn/update-cache
+      - auto/publish-canary:
+          context: npm-deploy
+          filters:
+            branches:
+              ignore:
+                - master
+          requires:
+            - yarn/update-cache
