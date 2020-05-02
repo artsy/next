@@ -55,9 +55,7 @@ export class Document extends NextDocument {
           {(this.props as any).styleTags}
         </Head>
         <body>
-          <Theme>
-            <Main />
-          </Theme>
+          <Main />
           <NextScript />
         </body>
       </Html>
