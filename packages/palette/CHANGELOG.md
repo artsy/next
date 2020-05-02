@@ -1,3 +1,19 @@
+# v0.3.0 (Sat May 02 2020)
+
+#### 🚀  Enhancement
+
+- Remove Theme from doc, document adding it to app [#4](https://github.com/artsy/next/pull/4) ([@zephraph](https://github.com/zephraph))
+
+#### 🐛  Bug Fix
+
+- Remove Theme from doc, document adding it to app ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 1
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
 # v0.2.0 (Sat May 02 2020)
 
 #### 🚀  Enhancement

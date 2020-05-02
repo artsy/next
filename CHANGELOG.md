@@ -2,6 +2,19 @@
 
 #### 🚀  Enhancement
 
+- `@artsy/next-palette@0.3.0`
+  - Remove Theme from doc, document adding it to app [#4](https://github.com/artsy/next/pull/4) ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 1
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
+# (Sat May 02 2020)
+
+#### 🚀  Enhancement
+
 - `@artsy/next-layout@0.2.0`, `@artsy/next-palette@0.2.0`
   - Setup auto [#1](https://github.com/artsy/next/pull/1) ([@zephraph](https://github.com/zephraph))
 
