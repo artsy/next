@@ -18,7 +18,7 @@
     "styled-components": "^4"
   },
   "dependencies": {
-    "@artsy/palette": "^8.2.1"
+    "@artsy/palette": "^13.1.0"
   },
   "devDependencies": {
     "@types/styled-components": "^4",

@@ -50,7 +50,7 @@ export class Document extends NextDocument {
           <link
             type="text/css"
             rel="stylesheet"
-            href="https://webfonts.artsy.net/all-webfonts.css"
+            href="https://production-webfonts.artsy.net/all-webfonts.css"
           />
           {(this.props as any).styleTags}
         </Head>
