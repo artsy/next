@@ -1,6 +1,6 @@
 {
   "name": "@artsy/next-palette",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Easily integrate Artsy's Palette w/ Next.js",
   "author": "Justin Bennett <zephraph@gmail.com>",
   "publishConfig": {
