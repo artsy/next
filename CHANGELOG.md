@@ -1,3 +1,16 @@
+# (Sat Sep 05 2020)
+
+#### 💥  Breaking Change
+
+- `@artsy/next-palette@1.0.0`
+  - Upgrade palette to v13 [#7](https://github.com/artsy/next/pull/7) ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 1
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
 # (Sat May 02 2020)
 
 #### 🚀  Enhancement
